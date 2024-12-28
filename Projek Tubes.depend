@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735397876 source:c:\users\dzxp\documents\semester 3\aka\projek tubes\main.cpp
+	<iostream>
+	<chrono>
+	<iomanip>
+
